@@ -1,6 +1,6 @@
 # Dienstgrade Freiwillige Feuerwehr Rheinland-Pfalz
 
-Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfalz. Alle Dateien wurden nach Vorgabe erstellt, jedoch sind alle Angaben ohne Gewähr.
+Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfalz. Alle Dateien wurden nach [Vorgabe](https://lfks.rlp.de/fileadmin/LFKS/Downloads/Gesetze/Dienstgrad-funktionsabzeichen-20090126.pdf "Dienstgrad- und Funktionsabzeichen der Feuerwehr 26.01.2009") erstellt, jedoch sind alle Angaben ohne Gewähr.
 
 | Dienstgrad- und Funktionsabzeichen | Dienstgrad |
 | --- | --- |
