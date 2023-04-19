@@ -16,10 +16,10 @@ Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfal
 |![BM Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/BM%20Wehrf%C3%BChrer.svg)| Brandmeisterin / Brandmeister als Wehrführerin / Wehrführer |
 |![OBM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/OBM.svg)| Oberbrandmeisterin Oberbrandmeister |
 |![OBM Stv. Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/OBM%20Stv.%20Wehrf%C3%BChrer.svg)| Oberbrandmeisterin / Oberbrandmeister als stellv. Wehrführerin / Wehrführer |
-|     | Oberbrandmeisterin / Oberbrandmeister als Wehrführerin / Wehrführer |
-|     | Hauptbrandmeisterin Hauptbrandmeister |
-|     | Hauptbrandmeisterin / Hauptbrandmeister als stellv. Wehrführerin / Wehrführer |
-|     | Hauptbrandmeisterin / Hauptbrandmeister als Wehrführerin / Wehrführer |
+|![OBM Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/OBM%20Wehrf%C3%BChrer.svg)| Oberbrandmeisterin / Oberbrandmeister als Wehrführerin / Wehrführer |
+|![HBM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HBM.svg)| Hauptbrandmeisterin Hauptbrandmeister |
+|![HBM Stv. Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HBM%20Stv.%20Wehrf%C3%BChrer.svg)| Hauptbrandmeisterin / Hauptbrandmeister als stellv. Wehrführerin / Wehrführer |
+|![HBM Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HBM%20Wehrf%C3%BChrer.svg)| Hauptbrandmeisterin / Hauptbrandmeister als Wehrführerin / Wehrführer |
 |     | Stellvertretende Wehrleiterin / Stellvertretender Wehrleiter |
 |     | Stellvertretender Wehrleiterin a. D. / Stellvertretende Wehrleiter a. D. |
 |     | Wehrleiterin / Wehrleiter |
