@@ -4,7 +4,7 @@ Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfal
 
 | Dienstgrad- und Funktionsabzeichen | Dienstgrad |
 | --- | --- |
-|     | Feuerwehrfrauanwärterin Feuerwehrmannanwärter |
+|   ![FMA](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/FMA.svg)  | Feuerwehrfrauanwärterin Feuerwehrmannanwärter |
 |     | Feuerwehrfrau Feuerwehrmann |
 |     | Oberfeuerwehrfrau Oberfeuerwehrmann |
 |     | Hauptfeuerwehrfrau Hauptfeuerwehrmann |
