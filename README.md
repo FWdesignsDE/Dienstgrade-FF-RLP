@@ -20,11 +20,11 @@ Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfal
 |![HBM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HBM.svg)| Hauptbrandmeisterin Hauptbrandmeister |
 |![HBM Stv. Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HBM%20Stv.%20Wehrf%C3%BChrer.svg)| Hauptbrandmeisterin / Hauptbrandmeister als stellv. Wehrführerin / Wehrführer |
 |![HBM Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HBM%20Wehrf%C3%BChrer.svg)| Hauptbrandmeisterin / Hauptbrandmeister als Wehrführerin / Wehrführer |
-|     | Stellvertretende Wehrleiterin / Stellvertretender Wehrleiter |
-|     | Stellvertretender Wehrleiterin a. D. / Stellvertretende Wehrleiter a. D. |
-|     | Wehrleiterin / Wehrleiter |
-|     | Wehrleiterin a. D. / Wehrleiter a. D. |
-|     | Stellvertretende (Kreis-, Stadt-)feuerwehrinspekteurin / Stellvertretender (Kreis-, Stadt-)feuerwehrinspekteur |
-|     | Stellvertretende (Kreis-, Stadt-)feuerwehrinspekteurin a. D. / Stellvertretender (Kreis-, Stadt-)feuerwehrinspekteur a. D. |
-|     | (Kreis-, Stadt-)feuerwehrinspekteurin (KFI,SFI) / (Kreis-, Stadt-)feuerwehrinspekteur (KFI,SFI) |
-|     | (Kreis-, Stadt-)feuerwehrinspekteurin a. D.  / (Kreis-, Stadt-)feuerwehrinspekteur a. D. |
+|![stv. Wehrleiter](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/stv.%20Wehrleiter.svg)| Stellvertretende Wehrleiterin / Stellvertretender Wehrleiter |
+|![stv. Wehrleiter a. D.](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/stv.%20Wehrleiter%20a.%20D..svg)| Stellvertretender Wehrleiterin a. D. / Stellvertretende Wehrleiter a. D. |
+|![Wehrleiter](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/Wehrleiter.svg)| Wehrleiterin / Wehrleiter |
+|![Wehrleiter a. D.](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/Wehrleiter%20a.%20D..svg)| Wehrleiterin a. D. / Wehrleiter a. D. |
+|![stv. Kreisfeuerwehrinspekteur](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/stv.%20Kreisfeuerwehrinspekteur.svg)| Stellvertretende (Kreis-, Stadt-)feuerwehrinspekteurin / Stellvertretender (Kreis-, Stadt-)feuerwehrinspekteur |
+|![stv. Kreisfeuerwehrinspekteur a. D.](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/stv.%20Kreisfeuerwehrinspekteur%20a.%20D..svg)| Stellvertretende (Kreis-, Stadt-)feuerwehrinspekteurin a. D. / Stellvertretender (Kreis-, Stadt-)feuerwehrinspekteur a. D. |
+|![Kreisfeuerwehrinspekteur](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/Kreisfeuerwehrinspekteur.svg)| (Kreis-, Stadt-)feuerwehrinspekteurin (KFI,SFI) / (Kreis-, Stadt-)feuerwehrinspekteur (KFI,SFI) |
+|![Kreisfeuerwehrinspekteur a. D.](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/Kreisfeuerwehrinspekteur%20a.%20D.svg)| (Kreis-, Stadt-)feuerwehrinspekteurin a. D.  / (Kreis-, Stadt-)feuerwehrinspekteur a. D. |
