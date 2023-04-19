@@ -2,7 +2,7 @@
 
 Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfalz. Alle Dateien wurden nach Vorgabe erstellt, jedoch sind alle Angaben ohne Gewähr.
 
-|     |     |
+| --- | --- |
 | Dienstgrad- und Funktionsabzeichen | Dienstgrad |
 |     | Feuerwehrfrauanwärterin Feuerwehrmannanwärter |
 |     | Feuerwehrfrau Feuerwehrmann |
