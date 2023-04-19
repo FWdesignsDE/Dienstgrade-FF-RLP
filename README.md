@@ -4,18 +4,18 @@ Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfal
 
 | Dienstgrad- und Funktionsabzeichen | Dienstgrad |
 | --- | --- |
-|   ![FMA](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/FMA.svg)  | Feuerwehrfrauanwärterin Feuerwehrmannanwärter |
-|     | Feuerwehrfrau Feuerwehrmann |
-|     | Oberfeuerwehrfrau Oberfeuerwehrmann |
-|     | Hauptfeuerwehrfrau Hauptfeuerwehrmann |
-|     | Löschmeisterin Löschmeister |
-|     | Oberlöschmeisterin Oberlöschmeister |
-|     | Hauptlöschmeisterin Hauptlöschmeister |
-|     | Brandmeisterin Brandmeister |
-|     | Brandmeisterin / Brandmeister als stellv. Wehrführerin / Wehrführer |
-|     | Brandmeisterin / Brandmeister als Wehrführerin / Wehrführer |
-|     | Oberbrandmeisterin Oberbrandmeister |
-|     | Oberbrandmeisterin / Oberbrandmeister als stellv. Wehrführerin / Wehrführer |
+|![FMA](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/FMA.svg)| Feuerwehrfrauanwärterin Feuerwehrmannanwärter |
+|![FM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/FM.svg)| Feuerwehrfrau Feuerwehrmann |
+|![OFM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/OFM.svg)| Oberfeuerwehrfrau Oberfeuerwehrmann |
+|![HFM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HFM.svg)| Hauptfeuerwehrfrau Hauptfeuerwehrmann |
+|![LM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/LM.svg)| Löschmeisterin Löschmeister |
+|![OLM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/OLM.svg)| Oberlöschmeisterin Oberlöschmeister |
+|![HLM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/HLM.svg)| Hauptlöschmeisterin Hauptlöschmeister |
+|![BM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/BM.svg)| Brandmeisterin Brandmeister |
+|![BM Stv. Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/BM%20Stv.%20Wehrf%C3%BChrer.svg)| Brandmeisterin / Brandmeister als stellv. Wehrführerin / Wehrführer |
+|![BM Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/BM%20Wehrf%C3%BChrer.svg)| Brandmeisterin / Brandmeister als Wehrführerin / Wehrführer |
+|![OBM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/OBM.svg)| Oberbrandmeisterin Oberbrandmeister |
+|![OBM Stv. Wehrführer](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/OBM%20Stv.%20Wehrf%C3%BChrer.svg)| Oberbrandmeisterin / Oberbrandmeister als stellv. Wehrführerin / Wehrführer |
 |     | Oberbrandmeisterin / Oberbrandmeister als Wehrführerin / Wehrführer |
 |     | Hauptbrandmeisterin Hauptbrandmeister |
 |     | Hauptbrandmeisterin / Hauptbrandmeister als stellv. Wehrführerin / Wehrführer |
