@@ -2,7 +2,7 @@
 
 Im Folgenden finden Sie die Dienstgrade Freiwilligen Feuerwehr in Rheinland-Pfalz. Alle Dateien wurden nach [Vorgabe](https://lfks.rlp.de/fileadmin/LFKS/Downloads/Gesetze/Dienstgrad-funktionsabzeichen-20090126.pdf "Dienstgrad- und Funktionsabzeichen der Feuerwehr 26.01.2009") erstellt, jedoch sind alle Angaben ohne Gewähr.
 
-| Dienstgrad- und Funktionsabzeichen | Dienstgrad | Kürzel | **Voraussetzungen zur Beförderung **(Vorschlag)** |
+| Dienstgrad- und Funktionsabzeichen | Dienstgrad | Kürzel | Voraussetzungen zur Beförderung **(Vorschlag)** |
 | --- | --- | --- | --- |
 | ![FMA](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/FMA.svg) | Feuerwehrfrauanwärterin Feuerwehrmannanwärter | FMA | \- Verpflichtung zum Fw-Dienst<br>\- Mindestalter: 16 Jahre |
 | ![FM](https://github.com/FWdesignsDE/Dienstgrade-FF-RLP/blob/main/FM.svg) | Feuerwehrfrau Feuerwehrmann | FM  | \- Ausbildung zum Truppmann Teil 1 und Truppmann Teil 2.<br>\- Mindestalter: 18 Jahre |
